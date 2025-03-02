@@ -1,6 +1,5 @@
-x = 10
-print(type(x))
+ful_name= "Bo " + "Morgan"
+print(ful_name)
 
-x = float(x)
-print(x)
-print(type(x))
+name = 3 * "Bo "
+print(name)
