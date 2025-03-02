@@ -1,8 +1,3 @@
-n = 50
-print(type(n))
+name, age, address, percentage = 'John', 25, 'USA', 85.5
 
-n = 50 + 9.5
-print(type(n))
-
-n = "Seventy"
-print(type(n))
+print(name, age, address, percentage)
