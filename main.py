@@ -1,5 +1,4 @@
-ful_name= "Bo " + "Morgan"
-print(ful_name)
-
-name = 3 * "Bo "
-print(name)
+str = 'Programming'
+r = str[0:2]
+r2 = str[:5]
+print(r2)
