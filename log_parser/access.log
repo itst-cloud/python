@@ -1,0 +1,281 @@
+2025-03-02T00:05:01.921366+00:00 itst CRON[9223]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T00:05:01.924695+00:00 itst CRON[9223]: pam_unix(cron:session): session closed for user root
+2025-03-02T00:15:01.931347+00:00 itst CRON[9244]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T00:15:01.934636+00:00 itst CRON[9244]: pam_unix(cron:session): session closed for user root
+2025-03-02T00:17:01.939454+00:00 itst CRON[9248]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T00:17:01.942283+00:00 itst CRON[9248]: pam_unix(cron:session): session closed for user root
+2025-03-02T00:25:01.948062+00:00 itst CRON[9257]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T00:25:01.951112+00:00 itst CRON[9257]: pam_unix(cron:session): session closed for user root
+2025-03-02T00:35:01.957976+00:00 itst CRON[9267]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T00:35:01.961508+00:00 itst CRON[9267]: pam_unix(cron:session): session closed for user root
+2025-03-02T00:45:01.968308+00:00 itst CRON[9292]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T00:45:01.971426+00:00 itst CRON[9292]: pam_unix(cron:session): session closed for user root
+2025-03-02T00:55:01.978232+00:00 itst CRON[9308]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T00:55:01.981480+00:00 itst CRON[9308]: pam_unix(cron:session): session closed for user root
+2025-03-02T01:05:01.988251+00:00 itst CRON[9319]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T01:05:01.991629+00:00 itst CRON[9319]: pam_unix(cron:session): session closed for user root
+2025-03-02T01:15:01.998549+00:00 itst CRON[9330]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T01:15:02.001944+00:00 itst CRON[9330]: pam_unix(cron:session): session closed for user root
+2025-03-02T01:17:01.006672+00:00 itst CRON[9333]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T01:17:01.009622+00:00 itst CRON[9333]: pam_unix(cron:session): session closed for user root
+2025-03-02T01:25:01.015907+00:00 itst CRON[9343]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T01:25:01.019094+00:00 itst CRON[9343]: pam_unix(cron:session): session closed for user root
+2025-03-02T01:35:01.026140+00:00 itst CRON[9372]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T01:35:01.028978+00:00 itst CRON[9372]: pam_unix(cron:session): session closed for user root
+2025-03-02T01:45:01.035930+00:00 itst CRON[9382]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T01:45:01.039652+00:00 itst CRON[9382]: pam_unix(cron:session): session closed for user root
+2025-03-02T01:55:01.046544+00:00 itst CRON[9391]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T01:55:01.049655+00:00 itst CRON[9391]: pam_unix(cron:session): session closed for user root
+2025-03-02T02:05:01.056441+00:00 itst CRON[9399]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T02:05:01.059704+00:00 itst CRON[9399]: pam_unix(cron:session): session closed for user root
+2025-03-02T02:15:01.066753+00:00 itst CRON[9408]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T02:15:01.070042+00:00 itst CRON[9408]: pam_unix(cron:session): session closed for user root
+2025-03-02T02:17:01.074913+00:00 itst CRON[9411]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T02:17:01.077759+00:00 itst CRON[9411]: pam_unix(cron:session): session closed for user root
+2025-03-02T02:25:01.083872+00:00 itst CRON[9419]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T02:25:01.087039+00:00 itst CRON[9419]: pam_unix(cron:session): session closed for user root
+2025-03-02T02:35:01.093881+00:00 itst CRON[9434]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T02:35:01.097970+00:00 itst CRON[9434]: pam_unix(cron:session): session closed for user root
+2025-03-02T02:45:01.104424+00:00 itst CRON[9459]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T02:45:01.107383+00:00 itst CRON[9459]: pam_unix(cron:session): session closed for user root
+2025-03-02T02:55:01.113924+00:00 itst CRON[9472]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T02:55:01.117123+00:00 itst CRON[9472]: pam_unix(cron:session): session closed for user root
+2025-03-02T03:05:01.124179+00:00 itst CRON[9481]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T03:05:01.127460+00:00 itst CRON[9481]: pam_unix(cron:session): session closed for user root
+2025-03-02T03:10:01.133205+00:00 itst CRON[9488]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T03:10:01.137232+00:00 itst CRON[9488]: pam_unix(cron:session): session closed for user root
+2025-03-02T03:15:01.141734+00:00 itst CRON[9495]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T03:15:01.144622+00:00 itst CRON[9495]: pam_unix(cron:session): session closed for user root
+2025-03-02T03:17:01.149330+00:00 itst CRON[9499]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T03:17:01.152105+00:00 itst CRON[9499]: pam_unix(cron:session): session closed for user root
+2025-03-02T03:25:01.158133+00:00 itst CRON[9508]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T03:25:01.161459+00:00 itst CRON[9508]: pam_unix(cron:session): session closed for user root
+2025-03-02T03:30:01.166691+00:00 itst CRON[9516]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T03:30:01.170878+00:00 itst CRON[9516]: pam_unix(cron:session): session closed for user root
+2025-03-02T03:35:01.174443+00:00 itst CRON[9520]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T03:35:01.177405+00:00 itst CRON[9520]: pam_unix(cron:session): session closed for user root
+2025-03-02T03:45:01.184710+00:00 itst CRON[9530]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T03:45:01.187958+00:00 itst CRON[9530]: pam_unix(cron:session): session closed for user root
+2025-03-02T03:55:01.194989+00:00 itst CRON[9571]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T03:55:01.197879+00:00 itst CRON[9571]: pam_unix(cron:session): session closed for user root
+2025-03-02T04:05:01.204674+00:00 itst CRON[9601]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T04:05:01.207965+00:00 itst CRON[9601]: pam_unix(cron:session): session closed for user root
+2025-03-02T04:15:01.214804+00:00 itst CRON[9611]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T04:15:01.218944+00:00 itst CRON[9611]: pam_unix(cron:session): session closed for user root
+2025-03-02T04:17:01.223483+00:00 itst CRON[9614]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T04:17:01.226364+00:00 itst CRON[9614]: pam_unix(cron:session): session closed for user root
+2025-03-02T04:25:01.232625+00:00 itst CRON[9624]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T04:25:01.236102+00:00 itst CRON[9624]: pam_unix(cron:session): session closed for user root
+2025-03-02T04:35:01.242863+00:00 itst CRON[9649]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T04:35:01.245766+00:00 itst CRON[9649]: pam_unix(cron:session): session closed for user root
+2025-03-02T04:45:01.252044+00:00 itst CRON[9663]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T04:45:01.255270+00:00 itst CRON[9663]: pam_unix(cron:session): session closed for user root
+2025-03-02T04:55:01.262139+00:00 itst CRON[9673]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T04:55:01.265531+00:00 itst CRON[9673]: pam_unix(cron:session): session closed for user root
+2025-03-02T05:05:01.272251+00:00 itst CRON[9682]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T05:05:01.275450+00:00 itst CRON[9682]: pam_unix(cron:session): session closed for user root
+2025-03-02T05:15:01.282680+00:00 itst CRON[9691]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T05:15:01.286108+00:00 itst CRON[9691]: pam_unix(cron:session): session closed for user root
+2025-03-02T05:17:01.290784+00:00 itst CRON[9694]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T05:17:01.293543+00:00 itst CRON[9694]: pam_unix(cron:session): session closed for user root
+2025-03-02T05:25:01.299866+00:00 itst CRON[9704]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T05:25:01.303032+00:00 itst CRON[9704]: pam_unix(cron:session): session closed for user root
+2025-03-02T05:35:01.310119+00:00 itst CRON[9713]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T05:35:01.313347+00:00 itst CRON[9713]: pam_unix(cron:session): session closed for user root
+2025-03-02T05:45:01.320175+00:00 itst CRON[9722]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T05:45:01.323464+00:00 itst CRON[9722]: pam_unix(cron:session): session closed for user root
+2025-03-02T05:55:01.329715+00:00 itst CRON[9750]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T05:55:01.332555+00:00 itst CRON[9750]: pam_unix(cron:session): session closed for user root
+2025-03-02T06:05:01.339460+00:00 itst CRON[9758]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T06:05:01.343063+00:00 itst CRON[9758]: pam_unix(cron:session): session closed for user root
+2025-03-02T06:15:01.350337+00:00 itst CRON[9787]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T06:15:01.353674+00:00 itst CRON[9787]: pam_unix(cron:session): session closed for user root
+2025-03-02T06:17:01.358958+00:00 itst CRON[9790]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T06:17:01.362064+00:00 itst CRON[9790]: pam_unix(cron:session): session closed for user root
+2025-03-02T06:25:01.368084+00:00 itst CRON[9802]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T06:25:01.371363+00:00 itst CRON[9801]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T06:25:01.371959+00:00 itst CRON[9802]: pam_unix(cron:session): session closed for user root
+2025-03-02T06:25:01.380378+00:00 itst CRON[9801]: pam_unix(cron:session): session closed for user root
+2025-03-02T06:35:01.387304+00:00 itst CRON[9821]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T06:35:01.391151+00:00 itst CRON[9821]: pam_unix(cron:session): session closed for user root
+2025-03-02T06:45:01.397751+00:00 itst CRON[9945]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T06:45:01.400647+00:00 itst CRON[9945]: pam_unix(cron:session): session closed for user root
+2025-03-02T06:47:01.405611+00:00 itst CRON[9949]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T06:47:01.410911+00:00 itst CRON[9949]: pam_unix(cron:session): session closed for user root
+2025-03-02T06:55:01.416743+00:00 itst CRON[9959]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T06:55:01.419818+00:00 itst CRON[9959]: pam_unix(cron:session): session closed for user root
+2025-03-02T07:05:01.427007+00:00 itst CRON[9968]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T07:05:01.430036+00:00 itst CRON[9968]: pam_unix(cron:session): session closed for user root
+2025-03-02T07:15:01.436438+00:00 itst CRON[9978]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T07:15:01.439647+00:00 itst CRON[9978]: pam_unix(cron:session): session closed for user root
+2025-03-02T07:17:01.443953+00:00 itst CRON[9981]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T07:17:01.446767+00:00 itst CRON[9981]: pam_unix(cron:session): session closed for user root
+2025-03-02T07:25:01.452723+00:00 itst CRON[9989]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T07:25:01.455864+00:00 itst CRON[9989]: pam_unix(cron:session): session closed for user root
+2025-03-02T07:35:01.462609+00:00 itst CRON[10014]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T07:35:01.465412+00:00 itst CRON[10014]: pam_unix(cron:session): session closed for user root
+2025-03-02T07:45:01.472615+00:00 itst CRON[10028]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T07:45:01.475856+00:00 itst CRON[10028]: pam_unix(cron:session): session closed for user root
+2025-03-02T07:55:01.482662+00:00 itst CRON[10038]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T07:55:01.485844+00:00 itst CRON[10038]: pam_unix(cron:session): session closed for user root
+2025-03-02T08:05:01.492634+00:00 itst CRON[10047]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T08:05:01.495778+00:00 itst CRON[10047]: pam_unix(cron:session): session closed for user root
+2025-03-02T08:15:01.502716+00:00 itst CRON[10057]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T08:15:01.505889+00:00 itst CRON[10057]: pam_unix(cron:session): session closed for user root
+2025-03-02T08:17:01.510151+00:00 itst CRON[10060]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T08:17:01.512978+00:00 itst CRON[10060]: pam_unix(cron:session): session closed for user root
+2025-03-02T08:25:01.518704+00:00 itst CRON[10069]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T08:25:01.521881+00:00 itst CRON[10069]: pam_unix(cron:session): session closed for user root
+2025-03-02T08:35:01.528118+00:00 itst CRON[10096]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T08:35:01.531033+00:00 itst CRON[10096]: pam_unix(cron:session): session closed for user root
+2025-03-02T08:45:01.537297+00:00 itst CRON[10107]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T08:45:01.540431+00:00 itst CRON[10107]: pam_unix(cron:session): session closed for user root
+2025-03-02T08:55:01.547005+00:00 itst CRON[10115]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T08:55:01.550295+00:00 itst CRON[10115]: pam_unix(cron:session): session closed for user root
+2025-03-02T09:05:01.557246+00:00 itst CRON[10125]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T09:05:01.560624+00:00 itst CRON[10125]: pam_unix(cron:session): session closed for user root
+2025-03-02T09:15:01.567559+00:00 itst CRON[10149]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T09:15:01.570814+00:00 itst CRON[10149]: pam_unix(cron:session): session closed for user root
+2025-03-02T09:17:01.575416+00:00 itst CRON[10152]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T09:17:01.578266+00:00 itst CRON[10152]: pam_unix(cron:session): session closed for user root
+2025-03-02T09:25:01.584176+00:00 itst CRON[10166]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T09:25:01.587458+00:00 itst CRON[10166]: pam_unix(cron:session): session closed for user root
+2025-03-02T09:35:01.593873+00:00 itst CRON[10175]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T09:35:01.597020+00:00 itst CRON[10175]: pam_unix(cron:session): session closed for user root
+2025-03-02T09:45:01.603933+00:00 itst CRON[10184]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T09:45:01.607168+00:00 itst CRON[10184]: pam_unix(cron:session): session closed for user root
+2025-03-02T09:55:01.613596+00:00 itst CRON[10194]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T09:55:01.616553+00:00 itst CRON[10194]: pam_unix(cron:session): session closed for user root
+2025-03-02T10:05:01.623140+00:00 itst CRON[10204]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T10:05:01.626280+00:00 itst CRON[10204]: pam_unix(cron:session): session closed for user root
+2025-03-02T10:15:01.632924+00:00 itst CRON[10214]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T10:15:01.636003+00:00 itst CRON[10214]: pam_unix(cron:session): session closed for user root
+2025-03-02T10:17:01.640810+00:00 itst CRON[10217]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T10:17:01.644278+00:00 itst CRON[10217]: pam_unix(cron:session): session closed for user root
+2025-03-02T10:25:01.650281+00:00 itst CRON[10227]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T10:25:01.653533+00:00 itst CRON[10227]: pam_unix(cron:session): session closed for user root
+2025-03-02T10:35:01.659898+00:00 itst CRON[10252]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T10:35:01.662791+00:00 itst CRON[10252]: pam_unix(cron:session): session closed for user root
+2025-03-02T10:45:01.669494+00:00 itst CRON[10265]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T10:45:01.672835+00:00 itst CRON[10265]: pam_unix(cron:session): session closed for user root
+2025-03-02T10:55:01.679230+00:00 itst CRON[10273]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T10:55:01.682519+00:00 itst CRON[10273]: pam_unix(cron:session): session closed for user root
+2025-03-02T11:05:01.689824+00:00 itst CRON[10283]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T11:05:01.693105+00:00 itst CRON[10283]: pam_unix(cron:session): session closed for user root
+2025-03-02T11:15:01.699560+00:00 itst CRON[10293]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T11:15:01.702978+00:00 itst CRON[10293]: pam_unix(cron:session): session closed for user root
+2025-03-02T11:17:01.707956+00:00 itst CRON[10296]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T11:17:01.710798+00:00 itst CRON[10296]: pam_unix(cron:session): session closed for user root
+2025-03-02T11:25:01.717383+00:00 itst CRON[10304]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T11:25:01.720639+00:00 itst CRON[10304]: pam_unix(cron:session): session closed for user root
+2025-03-02T11:35:01.726805+00:00 itst CRON[10333]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T11:35:01.729470+00:00 itst CRON[10333]: pam_unix(cron:session): session closed for user root
+2025-03-02T11:45:01.736048+00:00 itst CRON[10343]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T11:45:01.739068+00:00 itst CRON[10343]: pam_unix(cron:session): session closed for user root
+2025-03-02T11:55:01.745323+00:00 itst CRON[10352]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T11:55:01.748512+00:00 itst CRON[10352]: pam_unix(cron:session): session closed for user root
+2025-03-02T12:05:01.754844+00:00 itst CRON[10360]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T12:05:01.758114+00:00 itst CRON[10360]: pam_unix(cron:session): session closed for user root
+2025-03-02T12:15:01.764880+00:00 itst CRON[10369]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T12:15:01.767945+00:00 itst CRON[10369]: pam_unix(cron:session): session closed for user root
+2025-03-02T12:17:01.773264+00:00 itst CRON[10372]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T12:17:01.776158+00:00 itst CRON[10372]: pam_unix(cron:session): session closed for user root
+2025-03-02T12:25:01.782348+00:00 itst CRON[10380]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T12:25:01.785483+00:00 itst CRON[10380]: pam_unix(cron:session): session closed for user root
+2025-03-02T12:35:01.791980+00:00 itst CRON[10405]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T12:35:01.794828+00:00 itst CRON[10405]: pam_unix(cron:session): session closed for user root
+2025-03-02T12:45:01.801180+00:00 itst CRON[10421]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T12:45:01.804534+00:00 itst CRON[10421]: pam_unix(cron:session): session closed for user root
+2025-03-02T12:55:01.811279+00:00 itst CRON[10429]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T12:55:01.814482+00:00 itst CRON[10429]: pam_unix(cron:session): session closed for user root
+2025-03-02T13:05:01.820892+00:00 itst CRON[10438]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T13:05:01.824460+00:00 itst CRON[10438]: pam_unix(cron:session): session closed for user root
+2025-03-02T13:15:01.831550+00:00 itst CRON[10448]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T13:15:01.834755+00:00 itst CRON[10448]: pam_unix(cron:session): session closed for user root
+2025-03-02T13:17:01.839358+00:00 itst CRON[10452]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T13:17:01.842334+00:00 itst CRON[10452]: pam_unix(cron:session): session closed for user root
+2025-03-02T13:25:01.848738+00:00 itst CRON[10461]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T13:25:01.852044+00:00 itst CRON[10461]: pam_unix(cron:session): session closed for user root
+2025-03-02T13:35:01.858689+00:00 itst CRON[10470]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T13:35:01.861960+00:00 itst CRON[10470]: pam_unix(cron:session): session closed for user root
+2025-03-02T13:45:01.868537+00:00 itst CRON[10500]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T13:45:01.871423+00:00 itst CRON[10500]: pam_unix(cron:session): session closed for user root
+2025-03-02T13:55:01.877601+00:00 itst CRON[10509]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T13:55:01.880871+00:00 itst CRON[10509]: pam_unix(cron:session): session closed for user root
+2025-03-02T14:05:01.887243+00:00 itst CRON[10517]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T14:05:01.890742+00:00 itst CRON[10517]: pam_unix(cron:session): session closed for user root
+2025-03-02T14:15:01.897458+00:00 itst CRON[10547]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T14:15:01.900439+00:00 itst CRON[10547]: pam_unix(cron:session): session closed for user root
+2025-03-02T14:17:01.904633+00:00 itst CRON[10552]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T14:17:01.907482+00:00 itst CRON[10552]: pam_unix(cron:session): session closed for user root
+2025-03-02T14:25:01.913460+00:00 itst CRON[10564]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T14:25:01.916616+00:00 itst CRON[10564]: pam_unix(cron:session): session closed for user root
+2025-03-02T14:29:46.750892+00:00 itst sshd[10573]: Accepted publickey for itst from 192.168.10.50 port 50450 ssh2: ED25519 SHA256:SYg558GFHjyzxudtLSI3vdr1DlxnQxeJblCXJ/2Ekw8
+2025-03-02T14:29:46.752923+00:00 itst sshd[10573]: pam_unix(sshd:session): session opened for user itst(uid=1000) by itst(uid=0)
+2025-03-02T14:29:46.757535+00:00 itst systemd-logind[712]: New session 539 of user itst.
+2025-03-02T14:35:01.923656+00:00 itst CRON[10700]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T14:35:01.926958+00:00 itst CRON[10700]: pam_unix(cron:session): session closed for user root
+2025-03-02T14:45:01.933625+00:00 itst CRON[10710]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T14:45:01.936963+00:00 itst CRON[10710]: pam_unix(cron:session): session closed for user root
+2025-03-02T14:55:01.943401+00:00 itst CRON[10718]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T14:55:01.946518+00:00 itst CRON[10718]: pam_unix(cron:session): session closed for user root
+2025-03-02T15:05:01.953321+00:00 itst CRON[10727]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T15:05:01.956605+00:00 itst CRON[10727]: pam_unix(cron:session): session closed for user root
+2025-03-02T15:15:01.963483+00:00 itst CRON[10737]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T15:15:01.966642+00:00 itst CRON[10737]: pam_unix(cron:session): session closed for user root
+2025-03-02T15:17:01.971657+00:00 itst CRON[10740]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T15:17:01.974484+00:00 itst CRON[10740]: pam_unix(cron:session): session closed for user root
+2025-03-02T15:25:01.980717+00:00 itst CRON[10749]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T15:25:01.984279+00:00 itst CRON[10749]: pam_unix(cron:session): session closed for user root
+2025-03-02T15:35:01.991635+00:00 itst CRON[10759]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T15:35:01.994805+00:00 itst CRON[10759]: pam_unix(cron:session): session closed for user root
+2025-03-02T15:45:02.001523+00:00 itst CRON[10768]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T15:45:02.005313+00:00 itst CRON[10768]: pam_unix(cron:session): session closed for user root
+2025-03-02T15:55:01.011551+00:00 itst CRON[10793]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T15:55:01.014472+00:00 itst CRON[10793]: pam_unix(cron:session): session closed for user root
+2025-03-02T16:05:01.021379+00:00 itst CRON[10807]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T16:05:01.024432+00:00 itst CRON[10807]: pam_unix(cron:session): session closed for user root
+2025-03-02T16:15:01.031182+00:00 itst CRON[10833]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T16:15:01.033992+00:00 itst CRON[10833]: pam_unix(cron:session): session closed for user root
+2025-03-02T16:17:01.038369+00:00 itst CRON[11151]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T16:17:01.041373+00:00 itst CRON[11151]: pam_unix(cron:session): session closed for user root
+2025-03-02T16:25:01.047246+00:00 itst CRON[11284]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T16:25:01.049940+00:00 itst CRON[11284]: pam_unix(cron:session): session closed for user root
+2025-03-02T16:35:01.056430+00:00 itst CRON[11294]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T16:35:01.059798+00:00 itst CRON[11294]: pam_unix(cron:session): session closed for user root
+2025-03-02T16:45:01.067091+00:00 itst CRON[11304]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T16:45:01.071036+00:00 itst CRON[11304]: pam_unix(cron:session): session closed for user root
+2025-03-02T16:55:01.078530+00:00 itst CRON[11313]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T16:55:01.081667+00:00 itst CRON[11313]: pam_unix(cron:session): session closed for user root
+2025-03-02T17:05:01.088539+00:00 itst CRON[11322]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T17:05:01.092218+00:00 itst CRON[11322]: pam_unix(cron:session): session closed for user root
+2025-03-02T17:15:01.098749+00:00 itst CRON[11347]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T17:15:01.101630+00:00 itst CRON[11347]: pam_unix(cron:session): session closed for user root
+2025-03-02T17:17:01.106932+00:00 itst CRON[11350]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T17:17:01.109737+00:00 itst CRON[11350]: pam_unix(cron:session): session closed for user root
+2025-03-02T17:25:01.116278+00:00 itst CRON[11395]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T17:25:01.119897+00:00 itst CRON[11395]: pam_unix(cron:session): session closed for user root
+2025-03-02T17:35:01.126386+00:00 itst CRON[11403]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T17:35:01.129818+00:00 itst CRON[11403]: pam_unix(cron:session): session closed for user root
+2025-03-02T17:45:01.136769+00:00 itst CRON[11413]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T17:45:01.139937+00:00 itst CRON[11413]: pam_unix(cron:session): session closed for user root
+2025-03-02T17:55:01.146536+00:00 itst CRON[11423]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T17:55:01.149699+00:00 itst CRON[11423]: pam_unix(cron:session): session closed for user root
+2025-03-02T18:05:01.157445+00:00 itst CRON[11432]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T18:05:01.160700+00:00 itst CRON[11432]: pam_unix(cron:session): session closed for user root
+2025-03-02T18:15:01.167093+00:00 itst CRON[11441]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T18:15:01.170259+00:00 itst CRON[11441]: pam_unix(cron:session): session closed for user root
+2025-03-02T18:17:01.174815+00:00 itst CRON[11444]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T18:17:01.177645+00:00 itst CRON[11444]: pam_unix(cron:session): session closed for user root
+2025-03-02T18:25:01.184404+00:00 itst CRON[11469]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T18:25:01.187334+00:00 itst CRON[11469]: pam_unix(cron:session): session closed for user root
+2025-03-02T18:35:01.194399+00:00 itst CRON[11483]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T18:35:01.197599+00:00 itst CRON[11483]: pam_unix(cron:session): session closed for user root
+2025-03-02T18:45:01.204805+00:00 itst CRON[11492]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-03-02T18:45:01.208108+00:00 itst CRON[11492]: pam_unix(cron:session): session closed for user root
+2025-03-02T18:49:20.947044+00:00 itst sshd[11495]: Accepted publickey for itst from 192.168.10.50 port 50386 ssh2: ED25519 SHA256:SYg558GFHjyzxudtLSI3vdr1DlxnQxeJblCXJ/2Ekw8
+2025-03-02T18:49:20.949174+00:00 itst sshd[11495]: pam_unix(sshd:session): session opened for user itst(uid=1000) by itst(uid=0)
+2025-03-02T18:49:20.953801+00:00 itst systemd-logind[712]: New session 570 of user itst.
+2025-03-02T18:50:57.332988+00:00 itst sudo:     itst : TTY=pts/1 ; PWD=/home/itst ; USER=root ; COMMAND=/usr/bin/chmod +x log_parse.py
+2025-03-02T18:50:57.335943+00:00 itst sudo: pam_unix(sudo:session): session opened for user root(uid=0) by itst(uid=1000)
+2025-03-02T18:50:57.337047+00:00 itst sudo: pam_unix(sudo:session): session closed for user root
