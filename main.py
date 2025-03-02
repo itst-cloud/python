@@ -1,3 +1,6 @@
-name, age, address, percentage = 'John', 25, 'USA', 85.5
+x = 10
+print(type(x))
 
-print(name, age, address, percentage)
+x = float(x)
+print(x)
+print(type(x))
